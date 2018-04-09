@@ -1,2 +1,2 @@
-# STM32
-Libraries for STM32 MCU's
+
+DHT11 HAL Library with Timer for STM32 MCU's.
